@@ -7,7 +7,9 @@ Props to OneLoneCoder @Javidx9 who inspired me to clone his game in VS
 Original Author
 
 Twitter: @javidx9
+
 Blog: www.onelonecoder.com
 
 Original Git: https://github.com/OneLoneCoder/videos/blob/master/OneLoneCoder_Tetris.cpp
+
 related Video: https://youtu.be/8OK8_tHeCIA
