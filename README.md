@@ -6,7 +6,7 @@ Props to OneLoneCoder @Javidx9 who inspired me to clone his game in VS
 
 Original Author
 
-Twitter: @javidx9
+Twitter: https://twitter.com/javidx9
 
 Blog: www.onelonecoder.com
 
